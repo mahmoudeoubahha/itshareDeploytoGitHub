@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "itshareapp"
+    }
+  },
+  "defaultProject": "itshareapp",
+  "cli": {
+    "analytics": "a8999e36-9d23-4f6e-a797-0aebed91800e"
+  }
 }
